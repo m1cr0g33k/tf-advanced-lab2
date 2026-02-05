@@ -75,7 +75,7 @@ pipeline {
     //   }
     // }
 
-  #}
+  // }
   post {
     always {
       echo "Static validation completed."
